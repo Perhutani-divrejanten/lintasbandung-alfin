@@ -1,4 +1,4 @@
-# Cara Upload Gambar ke Google Drive untuk Indonesia Daily
+# Cara Upload Gambar ke Google Drive untuk Lintas Bandung
 
 ## Langkah-langkah Upload Gambar:
 

@@ -1,19 +1,19 @@
 {
-  "name": "indonesiadaily-article-generator",
+  "name": "LintasBandung-article-generator",
   "version": "1.0.0",
-  "description": "Generator artikel otomatis dari Google Sheets untuk Indonesia Daily",
+  "description": "Generator artikel otomatis dari Google Sheets untuk Lintas Bandung",
   "main": "generate.js",
   "scripts": {
     "generate": "node generate.js",
     "start": "node generate.js"
   },
   "keywords": [
-    "indonesiadaily",
+    "LintasBandung",
     "generator",
     "google-sheets",
     "html"
   ],
-  "author": "Indonesia Daily Team",
+  "author": "Lintas Bandung Team",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.0",
